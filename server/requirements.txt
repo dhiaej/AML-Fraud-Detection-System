@@ -1,0 +1,12 @@
+fastapi
+neo4j
+torch
+torch-geometric
+pandas
+numpy
+uvicorn
+pydantic
+scikit-learn
+pytest
+pytest-asyncio
+asyncio
